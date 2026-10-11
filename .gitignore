@@ -1,0 +1,35 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode/
+
+# Model and cache files
+.cache/
+huggingface_cache/
+*.pt
+*.pth
+*.safetensors
+
+# Generated Python artifacts
+*.egg-info/
+dist/
+build/
+
+# Empty placeholders and obsolete root-level copy
+/dashboard
+/docs
+/src_old
+/risk_engine.py

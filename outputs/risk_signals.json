@@ -1,0 +1,146 @@
+[
+  {
+    "date": "2026-10-01",
+    "company": "ABC Bank",
+    "source": "Synthetic News",
+    "text": "ABC Bank reported rising bad loans and credit quality concerns.",
+    "sentiment_score": -0.6,
+    "event_type": "credit_risk",
+    "impact_score": 8
+  },
+  {
+    "date": "2026-10-02",
+    "company": "TechNova",
+    "source": "Synthetic News",
+    "text": "TechNova announced record revenue and stronger profit guidance.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-03",
+    "company": "GreenEnergy",
+    "source": "Synthetic News",
+    "text": "GreenEnergy faces a regulatory investigation that may delay its project.",
+    "sentiment_score": -0.6,
+    "event_type": "regulatory_risk",
+    "impact_score": 8
+  },
+  {
+    "date": "2026-10-04",
+    "company": "AutoWorks",
+    "source": "Synthetic News",
+    "text": "AutoWorks reported declining sales due to weaker consumer demand.",
+    "sentiment_score": -0.6,
+    "event_type": "market_risk",
+    "impact_score": 6
+  },
+  {
+    "date": "2026-10-05",
+    "company": "ABC Bank",
+    "source": "Synthetic News",
+    "text": "ABC Bank completed a successful capital raise.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-06",
+    "company": "TechNova",
+    "source": "Synthetic News",
+    "text": "TechNova warned that supply chain disruptions could affect earnings.",
+    "sentiment_score": -0.6,
+    "event_type": "operational_risk",
+    "impact_score": 6
+  },
+  {
+    "date": "2026-10-07",
+    "company": "GreenEnergy",
+    "source": "Synthetic News",
+    "text": "GreenEnergy secured a major renewable energy contract.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-08",
+    "company": "AutoWorks",
+    "source": "Synthetic News",
+    "text": "AutoWorks recalled vehicles following a safety issue.",
+    "sentiment_score": -0.6,
+    "event_type": "operational_risk",
+    "impact_score": 6
+  },
+  {
+    "date": "2026-10-01",
+    "company": "ABC Bank",
+    "source": "Synthetic Social",
+    "text": "Investors are worried about rising loan defaults at ABC Bank.",
+    "sentiment_score": -0.6,
+    "event_type": "credit_risk",
+    "impact_score": 8
+  },
+  {
+    "date": "2026-10-02",
+    "company": "TechNova",
+    "source": "Synthetic Social",
+    "text": "TechNova earnings look strong and the growth outlook is promising.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-03",
+    "company": "GreenEnergy",
+    "source": "Synthetic Social",
+    "text": "The investigation into GreenEnergy could create major uncertainty.",
+    "sentiment_score": -0.6,
+    "event_type": "regulatory_risk",
+    "impact_score": 8
+  },
+  {
+    "date": "2026-10-04",
+    "company": "AutoWorks",
+    "source": "Synthetic Social",
+    "text": "AutoWorks sales seem weak and customers are concerned.",
+    "sentiment_score": -0.6,
+    "event_type": "general",
+    "impact_score": 3
+  },
+  {
+    "date": "2026-10-05",
+    "company": "ABC Bank",
+    "source": "Synthetic Social",
+    "text": "The capital raise may help ABC Bank manage its financial risks.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-06",
+    "company": "TechNova",
+    "source": "Synthetic Social",
+    "text": "Supply issues could hurt TechNova profits in the coming months.",
+    "sentiment_score": 0.0,
+    "event_type": "general",
+    "impact_score": 3
+  },
+  {
+    "date": "2026-10-07",
+    "company": "GreenEnergy",
+    "source": "Synthetic Social",
+    "text": "The new contract could be a positive development for GreenEnergy.",
+    "sentiment_score": 0.6,
+    "event_type": "positive_event",
+    "impact_score": 4
+  },
+  {
+    "date": "2026-10-08",
+    "company": "AutoWorks",
+    "source": "Synthetic Social",
+    "text": "The vehicle recall could damage AutoWorks reputation.",
+    "sentiment_score": 0.0,
+    "event_type": "operational_risk",
+    "impact_score": 6
+  }
+]

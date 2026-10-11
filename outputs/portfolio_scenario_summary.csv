@@ -1,0 +1,5 @@
+scenario,description,initial_value,estimated_change,stressed_value,return_pct
+baseline,Current event-based risk signals,8200000,-33500.0,8166500.0,-0.4085365853658537
+market_downturn,Broad market downturn,8200000,-579000.0,7621000.0,-7.060975609756097
+credit_crisis,Credit and lending crisis,8200000,-560000.0,7640000.0,-6.829268292682928
+regulatory_shock,Regulatory disruption,8200000,-642500.0,7557500.0,-7.835365853658536

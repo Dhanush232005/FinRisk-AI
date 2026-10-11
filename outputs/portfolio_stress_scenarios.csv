@@ -1,0 +1,21 @@
+asset,company,value,sector,scenario,event_type,sentiment_label,sentiment_score,shock_pct,estimated_change,stressed_value
+ABC Bank Bonds,ABC Bank,2000000,Banking,baseline,positive_event,positive,0.8539,0.04,80000.0,2080000.0
+TechNova Equity,TechNova,1500000,Technology,baseline,general,negative,-0.957,-0.03,-45000.0,1455000.0
+GreenEnergy Bonds,GreenEnergy,1000000,Energy,baseline,positive_event,positive,0.9265,0.04,40000.0,1040000.0
+AutoWorks Equity,AutoWorks,1200000,Automotive,baseline,operational_risk,negative,-0.9358,-0.08,-96000.0,1104000.0
+Government Bonds,Government,2500000,Government,baseline,general,neutral,0.0,-0.005,-12500.0,2487500.0
+ABC Bank Bonds,ABC Bank,2000000,Banking,market_downturn,positive_event,positive,0.8539,-0.08,-160000.0,1840000.0
+TechNova Equity,TechNova,1500000,Technology,market_downturn,general,negative,-0.957,-0.15,-225000.0,1275000.0
+GreenEnergy Bonds,GreenEnergy,1000000,Energy,market_downturn,positive_event,positive,0.9265,-0.1,-100000.0,900000.0
+AutoWorks Equity,AutoWorks,1200000,Automotive,market_downturn,operational_risk,negative,-0.9358,-0.12,-144000.0,1056000.0
+Government Bonds,Government,2500000,Government,market_downturn,general,neutral,0.0,0.02,50000.0,2550000.0
+ABC Bank Bonds,ABC Bank,2000000,Banking,credit_crisis,positive_event,positive,0.8539,-0.18,-360000.0,1640000.0
+TechNova Equity,TechNova,1500000,Technology,credit_crisis,general,negative,-0.957,-0.05,-75000.0,1425000.0
+GreenEnergy Bonds,GreenEnergy,1000000,Energy,credit_crisis,positive_event,positive,0.9265,-0.08,-80000.0,920000.0
+AutoWorks Equity,AutoWorks,1200000,Automotive,credit_crisis,operational_risk,negative,-0.9358,-0.1,-120000.0,1080000.0
+Government Bonds,Government,2500000,Government,credit_crisis,general,neutral,0.0,0.03,75000.0,2575000.0
+ABC Bank Bonds,ABC Bank,2000000,Banking,regulatory_shock,positive_event,positive,0.8539,-0.12,-240000.0,1760000.0
+TechNova Equity,TechNova,1500000,Technology,regulatory_shock,general,negative,-0.957,-0.08,-120000.0,1380000.0
+GreenEnergy Bonds,GreenEnergy,1000000,Energy,regulatory_shock,positive_event,positive,0.9265,-0.15,-150000.0,850000.0
+AutoWorks Equity,AutoWorks,1200000,Automotive,regulatory_shock,operational_risk,negative,-0.9358,-0.1,-120000.0,1080000.0
+Government Bonds,Government,2500000,Government,regulatory_shock,general,neutral,0.0,-0.005,-12500.0,2487500.0

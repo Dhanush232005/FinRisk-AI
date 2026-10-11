@@ -1,0 +1,17 @@
+date,company,source,text,sentiment_label,sentiment_score,sentiment_confidence
+2026-10-01,ABC Bank,Synthetic News,ABC Bank reported rising bad loans and credit quality concerns.,negative,-0.9621,0.9707
+2026-10-02,TechNova,Synthetic News,TechNova announced record revenue and stronger profit guidance.,positive,0.942,0.9613
+2026-10-03,GreenEnergy,Synthetic News,GreenEnergy faces a regulatory investigation that may delay its project.,negative,-0.9004,0.9091
+2026-10-04,AutoWorks,Synthetic News,AutoWorks reported declining sales due to weaker consumer demand.,negative,-0.9643,0.9712
+2026-10-05,ABC Bank,Synthetic News,ABC Bank completed a successful capital raise.,positive,0.9198,0.9329
+2026-10-06,TechNova,Synthetic News,TechNova warned that supply chain disruptions could affect earnings.,negative,-0.9578,0.966
+2026-10-07,GreenEnergy,Synthetic News,GreenEnergy secured a major renewable energy contract.,positive,0.9336,0.948
+2026-10-08,AutoWorks,Synthetic News,AutoWorks recalled vehicles following a safety issue.,negative,-0.9474,0.9584
+2026-10-01,ABC Bank,Synthetic Social,Investors are worried about rising loan defaults at ABC Bank.,negative,-0.9521,0.9626
+2026-10-02,TechNova,Synthetic Social,TechNova earnings look strong and the growth outlook is promising.,positive,0.9355,0.9489
+2026-10-03,GreenEnergy,Synthetic Social,The investigation into GreenEnergy could create major uncertainty.,negative,-0.7537,0.7699
+2026-10-04,AutoWorks,Synthetic Social,AutoWorks sales seem weak and customers are concerned.,negative,-0.9619,0.9717
+2026-10-05,ABC Bank,Synthetic Social,The capital raise may help ABC Bank manage its financial risks.,positive,0.8539,0.8615
+2026-10-06,TechNova,Synthetic Social,Supply issues could hurt TechNova profits in the coming months.,negative,-0.957,0.968
+2026-10-07,GreenEnergy,Synthetic Social,The new contract could be a positive development for GreenEnergy.,positive,0.9265,0.9393
+2026-10-08,AutoWorks,Synthetic Social,The vehicle recall could damage AutoWorks reputation.,negative,-0.9358,0.9455

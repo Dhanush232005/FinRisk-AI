@@ -1,0 +1,6 @@
+asset,company,value,sector,event_type,sentiment_label,sentiment_score,shock_pct,estimated_change,stressed_value
+ABC Bank Bonds,ABC Bank,2000000,Banking,positive_event,positive,0.8539,0.04,80000.0,2080000.0
+TechNova Equity,TechNova,1500000,Technology,general,negative,-0.957,-0.03,-45000.0,1455000.0
+GreenEnergy Bonds,GreenEnergy,1000000,Energy,positive_event,positive,0.9265,0.04,40000.0,1040000.0
+AutoWorks Equity,AutoWorks,1200000,Automotive,operational_risk,negative,-0.9358,-0.08,-96000.0,1104000.0
+Government Bonds,Government,2500000,Government,general,neutral,0.0,-0.005,-12500.0,2487500.0

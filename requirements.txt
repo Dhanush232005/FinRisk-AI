@@ -1,0 +1,10 @@
+@'
+pandas
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+plotly
+requests
+'@ | Set-Content -Encoding utf8 requirements.txt

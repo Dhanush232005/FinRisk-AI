@@ -1,0 +1,17 @@
+date,company,source,text,sentiment_score,event_type,impact_score
+2026-10-01,ABC Bank,Synthetic News,ABC Bank reported rising bad loans and credit quality concerns.,-0.6,credit_risk,8
+2026-10-02,TechNova,Synthetic News,TechNova announced record revenue and stronger profit guidance.,0.6,positive_event,4
+2026-10-03,GreenEnergy,Synthetic News,GreenEnergy faces a regulatory investigation that may delay its project.,-0.6,regulatory_risk,8
+2026-10-04,AutoWorks,Synthetic News,AutoWorks reported declining sales due to weaker consumer demand.,-0.6,market_risk,6
+2026-10-05,ABC Bank,Synthetic News,ABC Bank completed a successful capital raise.,0.6,positive_event,4
+2026-10-06,TechNova,Synthetic News,TechNova warned that supply chain disruptions could affect earnings.,-0.6,operational_risk,6
+2026-10-07,GreenEnergy,Synthetic News,GreenEnergy secured a major renewable energy contract.,0.6,positive_event,4
+2026-10-08,AutoWorks,Synthetic News,AutoWorks recalled vehicles following a safety issue.,-0.6,operational_risk,6
+2026-10-01,ABC Bank,Synthetic Social,Investors are worried about rising loan defaults at ABC Bank.,-0.6,credit_risk,8
+2026-10-02,TechNova,Synthetic Social,TechNova earnings look strong and the growth outlook is promising.,0.6,positive_event,4
+2026-10-03,GreenEnergy,Synthetic Social,The investigation into GreenEnergy could create major uncertainty.,-0.6,regulatory_risk,8
+2026-10-04,AutoWorks,Synthetic Social,AutoWorks sales seem weak and customers are concerned.,-0.6,general,3
+2026-10-05,ABC Bank,Synthetic Social,The capital raise may help ABC Bank manage its financial risks.,0.6,positive_event,4
+2026-10-06,TechNova,Synthetic Social,Supply issues could hurt TechNova profits in the coming months.,0.0,general,3
+2026-10-07,GreenEnergy,Synthetic Social,The new contract could be a positive development for GreenEnergy.,0.6,positive_event,4
+2026-10-08,AutoWorks,Synthetic Social,The vehicle recall could damage AutoWorks reputation.,0.0,operational_risk,6
