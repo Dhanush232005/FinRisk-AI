@@ -1,4 +1,3 @@
-@'
 pandas
 transformers
 torch
@@ -7,4 +6,3 @@ uvicorn
 streamlit
 plotly
 requests
-'@ | Set-Content -Encoding utf8 requirements.txt
